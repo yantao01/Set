@@ -1,0 +1,51 @@
+.layui-logo img {
+    width: 200px;
+    height: 60px;
+}
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
+.icon {
+    margin-right: 8px;
+}
+.layui-icon  {
+    margin-right: 8px;
+    margin-left: 20px;
+}
+a {
+    transition: none !important;
+}
+.userinfo {
+    color: white;
+    
+}
+.userinfo {
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    user-select: none;
+    margin-right: 15px;
+    
+}
+.layui-side-scroll .userinfo {
+    border-bottom: 1px solid rgb(129, 128, 128);
+}
+.layui-nav-img {
+    width: 40px;
+    height: 40px;
+}
+.text-avatar {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: dodgerblue;
+    border-radius: 50%;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    position: relative;
+    top: 4px;
+    margin-right: 5px;
+}
